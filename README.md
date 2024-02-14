@@ -80,8 +80,8 @@ To learn more about React Native, take a look at the following resources:
 
 ## Android
 
-<img width="393" alt="Screenshot 2024-02-14 at 11 46 43 AM" src="https://github.com/YashMaurya9274/OpenLibrary-App/assets/68786174/b0195396-a98c-4634-9de1-12e01dd9d147">
 <img width="393" alt="Screenshot 2024-02-14 at 11 47 07 AM" src="https://github.com/YashMaurya9274/OpenLibrary-App/assets/68786174/ffef7e11-752c-4d47-add7-619511e95c2b">
+<img width="393" alt="Screenshot 2024-02-14 at 11 46 43 AM" src="https://github.com/YashMaurya9274/OpenLibrary-App/assets/68786174/b0195396-a98c-4634-9de1-12e01dd9d147">
 
 
 ## IOS
